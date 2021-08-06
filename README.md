@@ -13,7 +13,7 @@ Now for 4 years I have been learning how to use the Unity engine. I made the gam
 - VSCode
 - Linux (VM/WSL/Servers)
 ___
-#### Technologies that I have an average idea of
+#### Technologies that I have an average idea of:
 - Common webstack (HTML, CSS) -> [Wodur.pl Website](https://wodur.pl/)
 - JavaScript
 - TypeScript
@@ -23,12 +23,12 @@ ___
 - Lua 
 - Shell Scripts
 - Windows Batch Scripts - [Tool for uploading Gmod addons to Steam Workshop](https://github.com/zigol01/jcx-gmod-tools)
-#### Tools that I use sometimes
+#### Tools that I use sometimes:
 - JetBrains Rider
 - Blender
 - GIMP
 ## Projects I've made
 [Potężniak](https://gamejolt.com/games/potezniak/473059) - 2D platformer about my friend
 ## Organizations in which I work
-@wodur - Polish indie game studio founded by me. [Official website](https://wodur.pl/)
-@Capital-MTA - Team working on Capital MTA [Multi Theft Auto](https://multitheftauto.com/) server
+[@wodur](https://github.com/wodur) - Polish indie game studio founded by me. [Official website](https://wodur.pl/)<br>
+[@Capital-MTA](https://github.com/Capital-MTA) - Team working on Capital MTA [Multi Theft Auto](https://multitheftauto.com/) server
