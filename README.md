@@ -14,7 +14,7 @@ Now for 4 years I have been learning how to use the Unity engine. I made the gam
 - Linux (VM/WSL/Servers)
 ___
 #### Technologies that I have an average idea of:
-- Common webstack (HTML, CSS) -> [Wodur.pl Website](https://wodur.pl/)
+- Common webstack (HTML, CSS) - [Wodur.pl Website](https://wodur.pl/)
 - JavaScript
 - TypeScript
 - React
