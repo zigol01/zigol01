@@ -1,6 +1,5 @@
 # About me
-![Avatar](/images/avatar.png "My avatar")<br>
-I'm a self-taught programmer mainly using Unity and C#.
+I'm a 17 self-taught programmer mainly using Unity and C#.
 I started making games when I was 8 using Windows Batch and Visual Basic using tutorials from youtube. 
 Then I started learning about web development (HTML, CSS, PHP, JS) and finally became more interested in becoming a REAL game developer. 
 Now for 4 years I have been learning how to use the Unity engine. I made the game ["Potężniak"](https://gamejolt.com/games/potezniak/473059) and in the near future I plan to create another game and release it on Steam.
