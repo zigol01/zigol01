@@ -31,4 +31,3 @@ ___
 [Potężniak](https://gamejolt.com/games/potezniak/473059) - 2D platformer about my friend
 ## Organizations in which I work
 [@wodur](https://github.com/wodur) - Polish indie game studio founded by me. [Official website](https://wodur.pl/)<br>
-[@Capital-MTA](https://github.com/Capital-MTA) - Team working on Capital MTA [Multi Theft Auto](https://multitheftauto.com/) server
